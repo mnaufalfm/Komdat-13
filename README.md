@@ -1,16 +1,15 @@
 # Komdat-13
 Repository untuk tugas Komdat dari kelompok 13
 
-<b>Aplikasi Human Resource Management "Admidio"</b>
+ <p style="font-size:20px"><b>Aplikasi Human Resource Management "Admidio"</b></p>
 
-Sekilas Tentang Admidio
+ <p style="font-size:14px">Sekilas Tentang Admidio</p>
 Admidio adalah manajemen keanggotaan online gratis, yang dioptimalkan untuk klub, kelompok dan organisasi. Ini terdiri selain anggota manajemen klasik dari berbagai modul yang dapat diinstal dan disesuaikan ke rumah baru atau yang sudah ada.
 
 Anda dapat membuat profil individu untuk anggota Anda dengan menambahkan atau menghapus bidang. Tambahan untuk fungsi-fungsi ini yaitu sistem memiliki beberapa modul seperti daftar anggota, manajer acara, buku tamu, album foto atau download area.
 
-<b>Instalasi</b>
-
-Prasyarat Sebelum instalasi
+<p style="font-size:20px"><b>Instalasi</b></p>
+<p style="font-size:14px"><b>Prasyarat Sebelum instalasi</b></p>
 Masuk ke VPS dengan alamat IP adam@172.18.88.83
 Login dengan username : adam  dan password : first
 
