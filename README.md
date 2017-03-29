@@ -30,7 +30,7 @@ Repository untuk tugas Komdat dari kelompok 13
 <ul>unzip download</ul>
 <ul>mv admidio-3.2.6 html/admidio</ul>
 <ul>sudo chmod -R 777 adm_my_files</ul>
-
+</ol>
 
 <b>Cara Pemakaian</b>
 Tampilan aplikasi web
