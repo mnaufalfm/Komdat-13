@@ -13,23 +13,23 @@ Repository untuk tugas Komdat dari kelompok 13
 <ol>
 <li>Masuk ke VPS dengan alamat IP adam@172.18.88.83</li>
 <li>Login dengan username : adam  dan password : first</li>
-
+</ol>
 <b>Langkah instalasi dalam CLI</b>
 <ol>
-<li>sudo apt install apache2</li>
-<li>sudo apt install mysql-server</li>
-<li>sudo apt install php</li>
-<li>sudo apt install libapache2-mod-php</li>
-<li>sudo apt install php-mysql</li>
-<li>sudo apt install php-gd php-mcrypt php-mbstring php-xml php-ssh2</li>
-<li>sudo service apache2 restart</li>
-<li>sudo install phpmyadmin</li>
-<li>sudo wget http://sourceforge.net/projects/admidio/files/Admidio/3.2.x/admidio-3.2.6.zip/download</li>
-<li>sudo apt install unzip</li>
-<li>cd /var/www</li>
-<li>unzip download</li>
-<li>mv admidio-3.2.6 html/admidio</li>
-<li>sudo chmod -R 777 adm_my_files</li>
+<ul>sudo apt install apache2</ul>
+<ul>sudo apt install mysql-server</ul>
+<ul>sudo apt install php</ul>
+<ul>sudo apt install libapache2-mod-php</ul>
+<ul>sudo apt install php-mysql</ul>
+<ul>sudo apt install php-gd php-mcrypt php-mbstring php-xml php-ssh2</ul>
+<ul>sudo service apache2 restart</ul>
+<ul>sudo install phpmyadmin</ul>
+<ul>sudo wget http://sourceforge.net/projects/admidio/files/Admidio/3.2.x/admidio-3.2.6.zip/download</ul>
+<ul>sudo apt install unzip</ul>
+<ul>cd /var/www</ul>
+<ul>unzip download</ul>
+<ul>mv admidio-3.2.6 html/admidio</ul>
+<ul>sudo chmod -R 777 adm_my_files</ul>
 
 
 <b>Cara Pemakaian</b>
