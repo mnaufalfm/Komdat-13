@@ -16,27 +16,27 @@ Repository untuk tugas Komdat dari kelompok 13
 </ol>
 <b>Langkah instalasi dalam CLI</b>
 <ol>
-<ul>sudo apt install apache2</ul>
-<ul>sudo apt install mysql-server</ul>
-<ul>sudo apt install php</ul>
-<ul>sudo apt install libapache2-mod-php</ul>
-<ul>sudo apt install php-mysql</ul>
-<ul>sudo apt install php-gd php-mcrypt php-mbstring php-xml php-ssh2</ul>
-<ul>sudo service apache2 restart</ul>
-<ul>sudo install phpmyadmin</ul>
-<ul>sudo wget http://sourceforge.net/projects/admidio/files/Admidio/3.2.x/admidio-3.2.6.zip/download</ul>
-<ul>sudo apt install unzip</ul>
-<ul>cd /var/www</ul>
-<ul>unzip download</ul>
-<ul>mv admidio-3.2.6 html/admidio</ul>
-<ul>sudo chmod -R 777 adm_my_files</ul>
+<li>sudo apt install apache2</li>
+<li>sudo apt install mysql-server</li>
+<li>sudo apt install php</li>
+<li>sudo apt install libapache2-mod-php</li>
+<li>sudo apt install php-mysql</li>
+<li>sudo apt install php-gd php-mcrypt php-mbstring php-xml php-ssh2</li>
+<li>sudo service apache2 restart</li>
+<li>sudo install phpmyadmin</li>
+<li>sudo wget http://sourceforge.net/projects/admidio/files/Admidio/3.2.x/admidio-3.2.6.zip/download</li>
+<li>sudo apt install unzip</li>
+<li>cd /var/www</li>
+<li>unzip download</li>
+<li>mv admidio-3.2.6 html/admidio</li>
+<li>sudo chmod -R 777 adm_my_files</li>
 </ol>
 
 <b>Cara Pemakaian</b>
-Tampilan aplikasi web
+<p>Tampilan aplikasi web</p>
 
 
-Fungsi-fungsi utama
+<p><b>Fungsi-fungsi utama</b></p>
 
 
 
@@ -61,8 +61,9 @@ Kekurangan Admidio :
 </ul>
 
 <b>Referensi</b>
-https://play.google.com/store/apps/details?id=de.zettem.Appmidio&hl=in
-https://www.admidio.org/dokuwiki/doku.php?id=en:2.0:index
-
+<ul>
+<li>https://play.google.com/store/apps/details?id=de.zettem.Appmidio&hl=in</li>
+<li>https://www.admidio.org/dokuwiki/doku.php?id=en:2.0:index</li>
+</ul>
 
 
