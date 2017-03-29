@@ -1,6 +1,7 @@
 # Komdat-13
 Repository untuk tugas Komdat dari kelompok 13
 
+<img src="https://github.com/mnaufalfm/Komdat-13/blob/master/pic/logo.PNG" />
 <p style="font-size:20px"><b>Aplikasi Human Resource Management "Admidio"</b></p>
 
 <p style="font-size:14px">Sekilas Tentang Admidio</p>
